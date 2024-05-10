@@ -1,0 +1,5 @@
+DB_USERNAME='rag_user'
+DB_USER='rag_user'
+DB_ROLE='rag_user'
+DB_PASSWORD='12345678'
+DB_NAME='rag_example_db'
